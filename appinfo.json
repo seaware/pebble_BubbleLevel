@@ -1,0 +1,30 @@
+{
+    "appKeys": {
+        "option1": 1,
+        "option2": 2
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Seaware",
+    "longName": "BubbleLevel",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/level.png",
+                "menuIcon": true,
+                "name": "ICON_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Level",
+    "uuid": "f8c68664-331f-4da9-9f58-a15dbc6fe309",
+    "versionCode": 1,
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
